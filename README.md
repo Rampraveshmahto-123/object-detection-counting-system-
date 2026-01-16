@@ -1,4 +1,6 @@
 # object-detection-counting-system-
 
 
-https://github.com/Rampraveshmahto-123/object-detection-counting-system-/blob/main/Screenshot%20(768).png
+![Dashboard Screenshot](https://github.com/sonu-analytics/Advance-student-management-system-in-python-with-database/blob/main/Screenshot%202025-05-10%20193935.png)
+
+
